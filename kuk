@@ -1,0 +1,30 @@
+@font-face {
+	font-family: Crimson Text;
+	src: local("Crimson Text"), local("CrimsonText-Roman"), url(http://themes.googleusercontent.com/static/fonts/crimsontext/v4/3IFMwfRa07i-auYR-B-zNXZ2MAKAc2x4R1uOSeegc5U.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/crimsontext/v4/3IFMwfRa07i-auYR-B-zNXhCUOGz7vYGh680lGh-uXM.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Crimson Text;
+	src: local("Crimson Text Italic"), local("CrimsonText-Italic"), url(http://themes.googleusercontent.com/static/fonts/crimsontext/v4/a5QZnvmn5amyNI-t2BMkWDoGYR7Z3iWH66EXnaJoKgg.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/crimsontext/v4/a5QZnvmn5amyNI-t2BMkWHpumDtkw9GHrrDfd7ZnWpU.woff) format("woff");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: Oxygen;
+	src: local("Oxygen Light"), local("Oxygen-Light"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/-1odZCVpKpOs9pNLq607fvY6323mHUZFJMgTvxaG2iE.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/-1odZCVpKpOs9pNLq607fj8E0i7KZn-EPnyo3HZu7kw.woff) format("woff");
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: Oxygen;
+	src: local("Oxygen"), local("Oxygen-Regular"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/FH4Pkbbnnqm0iJZOclGFjQ.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/OFgyER5uFw7Cy-F01PjbVg.woff) format("woff");
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+	font-family: Oxygen;
+	src: local("Oxygen Bold"), local("Oxygen-Bold"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/fSUtikcZd7PHZK0t2hzTefY6323mHUZFJMgTvxaG2iE.eot) format("embedded-opentype"), url(http://themes.googleusercontent.com/static/fonts/oxygen/v3/fSUtikcZd7PHZK0t2hzTeT8E0i7KZn-EPnyo3HZu7kw.woff) format("woff");
+	font-weight: 700;
+	font-style: normal;
+}
